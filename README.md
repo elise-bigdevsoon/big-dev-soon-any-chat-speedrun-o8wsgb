@@ -10,7 +10,7 @@ Create a real-time application that allows users to message each other.
 2. Review the requirements listed below in this README.
 3. Go through the design assets on the [project's page](https://app.bigdevsoon.me/projects/any-chat) to understand the project more.
 4. Clone this repository or use [GitHub Codespaces](https://github.com/features/codespaces) to set up the project environment.
-5. Choose your preferred technology stack and overwrite repository files as needed to set up your project structure. We included a few files and the `assets` folder for convenience, extracted from the design.
+5. Choose your preferred technology stack and overwrite repository files as needed to set up your project structure. We included a few files and the `assets` folder for convenience, extracted from the design.k
 6. Begin coding, either using the Freerun mode to work on each card individually or the Speedrun mode to work at your own pace. Be sure to follow the guidelines outlined below.
 7. Have a strong desire to learn and improve your skills as a Big Developer. 🚀
 
